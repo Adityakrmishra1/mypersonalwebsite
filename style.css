@@ -235,14 +235,10 @@ a {
 .navbar-wrapper {
     height: 20px;
 }
-
-
-.card-image {
-    height: 120px;
-    overflow: hidden;
+#myaccompid .card {
+    height: 23rem;
 }
 
-.card {
-    padding-bottom: 1rem;
-    margin-top: 3rem;
+#projectid .card {
+    height: 18rem;
 }
