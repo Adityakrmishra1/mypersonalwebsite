@@ -1,1 +1,1 @@
-link to website (link)[https://adityakrmishra1.github.io/mypersonalwebsite/]
+[link to website](https://adityakrmishra1.github.io/mypersonalwebsite/)
